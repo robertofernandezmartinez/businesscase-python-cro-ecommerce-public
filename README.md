@@ -1,6 +1,6 @@
 # Business case - Python - CRO for an ecommerce¶
 
-## *(This is only a public readme. Project files are private: you must request access)*
+## *(This is only a public readme. Project files are private: you must request access: https://www.linkedin.com/in/robertofernandezmartinez/)*
 
 We worked as consultants for an ecommerce in the cosmetics sector.
 
